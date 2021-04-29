@@ -1,0 +1,12 @@
+View - Jsp
+
+index.jsp -> 메인 화면
+loing.jsp - > 로그인 화면
+register.jsp -> 회원가입 화면
+board.jsp -> 게시판 화면
+user.jsp -> 유저 페이지 (작성한 글 보기 , 개인 정보 수정)
+미정  -> 특정 레벨 이상 게시판
+write.jsp  - > 게시물 작성 화면
+update.jsp -> 게시물 수정 화면 
+detail.jsp -> 게시물 상세보기 화면
+admin.jsp -> 관리자 화면 
